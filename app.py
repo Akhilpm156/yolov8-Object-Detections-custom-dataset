@@ -13,8 +13,8 @@ class_names = ['Helmet', 'No Helmet']
 # Streamlit app
 def main():
     demo_video = 'bikes.mp4'
-    st.title('Custom Object Detection YOLOV8')
-    st.sidebar.title('Object Detection')
+    st.title('Helmet Detection')
+    st.sidebar.title('Helmet Detection')
 
     # Create a radio button for selecting the input option
     option = st.sidebar.radio('Select Input Option', ['Video', 'Webcam'])
