@@ -38,7 +38,7 @@ Run the Streamlit app:
 streamlit run app.py
 
 
-The Streamlit app will open in your default web browser and run defalut demo video.
+The Streamlit app will open in your default web browser and run default  demo video.
 
 Choose the input option:
 
